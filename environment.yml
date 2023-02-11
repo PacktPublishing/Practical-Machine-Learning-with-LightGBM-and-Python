@@ -196,6 +196,7 @@ dependencies:
   - libxkbcommon=1.0.3=he3ba5ed_0
   - libxml2=2.10.3=h7463322_0
   - libzlib=1.2.13=h166bdaf_4
+  - lightgbm=3.3.5=py310heca2aa9_0
   - llvm-openmp=15.0.7=h0cdce71_0
   - lz4-c=1.9.3=h9c3ff4c_1
   - markupsafe=2.1.2=py310h1fa729e_0
