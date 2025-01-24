@@ -1,6 +1,3 @@
-
-<b><p align='center'>[![Packt Sale](https://static.packt-cdn.com/assets/images/e72907cf-bf2f-4f83-bb58-6cc08a901ff9.jpeg)](https://www.packtpub.com/)</p></b>Get this book on sale at [Packt](https://www.packtpub.com/).
-
 # Machine Learning with LightGBM and Python
 
 <a href="https://www.packtpub.com/product/machine-learning-with-lightgbm-and-python/9781800564749?utm_source=github&utm_medium=repository&utm_campaign=9781800564749"><img src="https://content.packt.com/B19629/cover_image_small.jpg" alt="Classification and regression" height="256px" align="right"></a>
